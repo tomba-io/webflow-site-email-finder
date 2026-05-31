@@ -1,0 +1,226 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "webflow.com",
+            "organization": "Webflow",
+            "location": {
+                "country": "US",
+                "city": "San Francisco",
+                "state": "California",
+                "street_address": "398 11th st",
+                "postal_code": "94107"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/webflowapp",
+                "facebook_url": "https://www.facebook.com/webflow",
+                "linkedin_url": "https://www.linkedin.com/company/3502352",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": null
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": "2012",
+            "company_size": "51-250",
+            "company_type": "partnership",
+            "revenue": "$0-$1M",
+            "accept_all": false,
+            "description": "webflow is the way to design, build, and launch powerful websites visually \u2014 without coding.",
+            "pattern": "{first}",
+            "total_similar": 22,
+            "keywords": [
+                "prototyping",
+                "content management system",
+                "responsive web design"
+            ],
+            "ranking": 2486,
+            "whois": {
+                "registrar_name": "namecheap, inc.",
+                "created_date": "2003-03-31T21:16:33+02:00",
+                "referral_url": "http://www.namecheap.com"
+            },
+            "last_updated": "2026-01-27T13:14:24+01:00"
+        },
+        "emails": [
+            {
+                "email": "priority@webflow.com",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "",
+                "gender": null,
+                "phone_number": false,
+                "type": "personal",
+                "country": null,
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 52,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://discourse.webflow.com/t/how-do-you-like-the-support-at-webflow/63502",
+                        "website_url": "discourse.webflow.com",
+                        "extracted_on": "2025-03-20T16:01:31+01:00",
+                        "last_seen_on": "2025-04-10T07:11:48+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://discourse.webflow.com/t/need-site-search-to-work-on-password-protected-site/72381",
+                        "website_url": "discourse.webflow.com",
+                        "extracted_on": "2025-10-16T12:05:44+02:00",
+                        "last_seen_on": "2025-10-31T03:58:38+01:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "vivian.hoang@webflow.com",
+                "first_name": "Vivian",
+                "last_name": "H",
+                "full_name": "Vivian H",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "SEO &amp; Growth Marketing",
+                "department": "marketing",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": null,
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T20:29:14+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "tristan.tarpley@webflow.com",
+                "first_name": "Tristan",
+                "last_name": "T.",
+                "full_name": "Tristan T.",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "Senior Engineer + Tech Lead",
+                "department": "engineering",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/tristantarpley",
+                "score": 100,
+                "verification": {
+                    "date": "2026-04-21T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T19:23:39+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "eva.demianiv@webflow.com",
+                "first_name": "Eva",
+                "last_name": "Demianiv",
+                "full_name": "Eva Demianiv",
+                "gender": "female",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": null,
+                "department": "",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/eva-demianiv-663b0215",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T13:34:28+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "melissa.eaker@webflow.com",
+                "first_name": "Melissa",
+                "last_name": "Eaker",
+                "full_name": "Melissa Eaker",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "Senior Manager Customer Success",
+                "department": "support",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/mhowse",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-01T20:36:37+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 540,
+        "pageSize": 5,
+        "current": 2,
+        "total_pages": 108,
+        "params": {
+            "domain": "webflow.com",
+            "company": "",
+            "page": 2,
+            "limit": 5,
+            "department": null,
+            "country": null,
+            "type": "all",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}

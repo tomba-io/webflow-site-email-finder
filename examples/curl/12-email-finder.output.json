@@ -1,0 +1,35 @@
+{
+    "data": {
+        "email": "vmagdalin@webflow.com",
+        "first_name": "Vlad",
+        "last_name": "Magdalin",
+        "full_name": "Vlad Magdalin",
+        "website_url": "webflow.com",
+        "company": "Webflow",
+        "pattern": "{f}{last}",
+        "department": "executive",
+        "type": "personal",
+        "position": "founder",
+        "country": "US",
+        "gender": "male",
+        "twitter": null,
+        "linkedin": "https://www.linkedin.com/in/vladmagdalin",
+        "score": 71,
+        "accept_all": null,
+        "phone_number": true,
+        "verification": {
+            "date": null,
+            "status": "unknown"
+        },
+        "sources": [
+            {
+                "uri": "https://tomba.io/robot",
+                "website_url": "tomba.io",
+                "extracted_on": "2025-07-01T15:01:12+02:00",
+                "last_seen_on": "2025-07-02T20:30:33+02:00",
+                "still_on_page": true
+            }
+        ],
+        "phone_data": []
+    }
+}

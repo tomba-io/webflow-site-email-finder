@@ -1,0 +1,80 @@
+{
+    "data": {
+        "email": {
+            "email": "sergie@webflow.com",
+            "result": "deliverable",
+            "status": "valid",
+            "score": 99,
+            "smtp_provider": "Google Workspace",
+            "mx": {
+                "records": [
+                    "aspmx.l.google.com",
+                    "alt2.aspmx.l.google.com",
+                    "alt1.aspmx.l.google.com",
+                    "aspmx3.googlemail.com",
+                    "aspmx2.googlemail.com"
+                ]
+            },
+            "mx_check": true,
+            "smtp_server": true,
+            "smtp_check": true,
+            "accept_all": false,
+            "greylisted": false,
+            "block": false,
+            "gibberish": false,
+            "disposable": false,
+            "webmail": false,
+            "regex": true,
+            "whois": {
+                "registrar_name": "namecheap, inc.",
+                "referral_url": "http://www.namecheap.com",
+                "created_date": "2003-03-31T21:16:33+02:00"
+            }
+        },
+        "sources": [
+            {
+                "uri": "https://paganresearch.io/details/webflow",
+                "website_url": "paganresearch.io",
+                "extracted_on": "2021-01-29T18:59:22+01:00",
+                "last_seen_on": "2024-12-18T15:19:56+01:00",
+                "still_on_page": false
+            },
+            {
+                "uri": "https://paganresearch.io/company/webflow",
+                "website_url": "paganresearch.io",
+                "extracted_on": "2021-06-19T09:22:24+02:00",
+                "last_seen_on": "2024-12-18T15:19:56+01:00",
+                "still_on_page": false
+            },
+            {
+                "uri": "https://paganresearch.io/contact/114870",
+                "website_url": "paganresearch.io",
+                "extracted_on": "2021-06-19T13:33:27+02:00",
+                "last_seen_on": "2024-12-18T15:19:56+01:00",
+                "still_on_page": false
+            },
+            {
+                "uri": "https://www.remotework360.com/listing/webflow-inc/",
+                "website_url": "www.remotework360.com",
+                "extracted_on": "2021-07-13T17:58:54+02:00",
+                "last_seen_on": "2021-07-13T18:13:27+02:00",
+                "still_on_page": true
+            },
+            {
+                "uri": "https://reviewbolt.com/r/webflow.com",
+                "website_url": "reviewbolt.com",
+                "extracted_on": "2021-07-16T01:22:15+02:00",
+                "last_seen_on": "2024-12-18T15:42:58+01:00",
+                "still_on_page": false
+            },
+            {
+                "uri": "https://tomba.io/robot",
+                "website_url": "tomba.io",
+                "extracted_on": "2025-07-01T15:01:12+02:00",
+                "last_seen_on": "2025-07-02T12:02:37+02:00",
+                "still_on_page": true
+            }
+        ],
+        "phone_data": []
+    }
+}

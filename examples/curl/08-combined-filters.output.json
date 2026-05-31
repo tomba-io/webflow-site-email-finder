@@ -1,0 +1,254 @@
+{
+    "data": {
+        "organization": {
+            "website_url": "webflow.com",
+            "organization": "Webflow",
+            "location": {
+                "country": "US",
+                "city": "San Francisco",
+                "state": "California",
+                "street_address": "398 11th st",
+                "postal_code": "94107"
+            },
+            "social_links": {
+                "twitter_url": "https://twitter.com/webflowapp",
+                "facebook_url": "https://www.facebook.com/webflow",
+                "linkedin_url": "https://www.linkedin.com/company/3502352",
+                "instagram_url": null,
+                "github_url": null,
+                "youtube_url": null,
+                "pinterest_url": null,
+                "tiktok_url": null
+            },
+            "disposable": false,
+            "webmail": false,
+            "phone_number": true,
+            "industries": "Information Technology and Services",
+            "founded": "2012",
+            "company_size": "51-250",
+            "company_type": "partnership",
+            "revenue": "$0-$1M",
+            "accept_all": false,
+            "description": "webflow is the way to design, build, and launch powerful websites visually \u2014 without coding.",
+            "pattern": "{first}",
+            "total_similar": 22,
+            "keywords": [
+                "prototyping",
+                "content management system",
+                "responsive web design"
+            ],
+            "ranking": 2486,
+            "whois": {
+                "registrar_name": "namecheap, inc.",
+                "created_date": "2003-03-31T21:16:33+02:00",
+                "referral_url": "http://www.namecheap.com"
+            },
+            "last_updated": "2026-01-27T13:14:24+01:00"
+        },
+        "emails": [
+            {
+                "email": "sergie@webflow.com",
+                "first_name": "Sergie",
+                "last_name": "Magdalin",
+                "full_name": "Sergie Magdalin",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "cpo founder",
+                "department": "executive",
+                "seniority": "founder",
+                "twitter": "https://twitter.com/thesergie",
+                "linkedin": "https://www.linkedin.com/in/sergiemagdalin",
+                "score": 100,
+                "verification": {
+                    "date": "2026-05-27T00:00:00+02:00",
+                    "status": "valid"
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://paganresearch.io/details/webflow",
+                        "website_url": "paganresearch.io",
+                        "extracted_on": "2021-01-29T18:59:22+01:00",
+                        "last_seen_on": "2024-12-18T15:19:56+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://paganresearch.io/company/webflow",
+                        "website_url": "paganresearch.io",
+                        "extracted_on": "2021-06-19T09:22:24+02:00",
+                        "last_seen_on": "2024-12-18T15:19:56+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://paganresearch.io/contact/114870",
+                        "website_url": "paganresearch.io",
+                        "extracted_on": "2021-06-19T13:33:27+02:00",
+                        "last_seen_on": "2024-12-18T15:19:56+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://www.remotework360.com/listing/webflow-inc/",
+                        "website_url": "www.remotework360.com",
+                        "extracted_on": "2021-07-13T17:58:54+02:00",
+                        "last_seen_on": "2021-07-13T18:13:27+02:00",
+                        "still_on_page": true
+                    },
+                    {
+                        "uri": "https://reviewbolt.com/r/webflow.com",
+                        "website_url": "reviewbolt.com",
+                        "extracted_on": "2021-07-16T01:22:15+02:00",
+                        "last_seen_on": "2024-12-18T15:42:58+01:00",
+                        "still_on_page": false
+                    },
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T12:02:37+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "jason.kahn@webflow.com",
+                "first_name": "Jason",
+                "last_name": "Kahn",
+                "full_name": "Jason Kahn",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "Director of Product - Optimization / Personalization",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/jasonkahn",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T19:04:41+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "craig.mestel@webflow.com",
+                "first_name": "Craig",
+                "last_name": "Mestel",
+                "full_name": "Craig Mestel",
+                "gender": "male",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "Chief Financial Officer",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/cmestel",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-03T07:26:57+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "nam.cu@webflow.com",
+                "first_name": "Nam",
+                "last_name": "Cu",
+                "full_name": "Nam Cu",
+                "gender": "male",
+                "phone_number": false,
+                "type": "personal",
+                "country": "US",
+                "position": "My parents would say, &#34;not a doctor but he&#39;s good with computers&#34",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/nam-cu-97b34a65",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-02T00:18:31+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            },
+            {
+                "email": "maria.gonzalez@webflow.com",
+                "first_name": "Maria",
+                "last_name": "Gonzalez",
+                "full_name": "Maria Gonzalez",
+                "gender": "female",
+                "phone_number": true,
+                "type": "personal",
+                "country": "US",
+                "position": "Director of Brand and Web Design",
+                "department": "executive",
+                "seniority": null,
+                "twitter": null,
+                "linkedin": "https://www.linkedin.com/in/theonlymaria",
+                "score": 51,
+                "verification": {
+                    "date": null,
+                    "status": null
+                },
+                "phone_data": [],
+                "sources": [
+                    {
+                        "uri": "https://tomba.io/robot",
+                        "website_url": "tomba.io",
+                        "extracted_on": "2025-07-01T15:01:12+02:00",
+                        "last_seen_on": "2025-07-01T17:05:34+02:00",
+                        "still_on_page": true
+                    }
+                ]
+            }
+        ]
+    },
+    "meta": {
+        "total": 382,
+        "pageSize": 5,
+        "current": 1,
+        "total_pages": 100,
+        "params": {
+            "domain": "webflow.com",
+            "company": "",
+            "page": 1,
+            "limit": 5,
+            "department": "executive",
+            "country": "US",
+            "type": "personal",
+            "live": false,
+            "enrich_mobile": false,
+            "webhook_url": null
+        }
+    }
+}
