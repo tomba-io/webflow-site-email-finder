@@ -68,8 +68,8 @@ Need results piped into your own pipeline, scheduler, or data warehouse? This re
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/tomba-io/tomba-webflow-site-email-finder.git
-   cd tomba-webflow-site-email-finder
+   git clone https://github.com/tomba-io/webflow-site-email-finder.git
+   cd webflow-site-email-finder
    ```
 
 2. **Install dependencies**
